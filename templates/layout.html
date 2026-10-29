@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Global Olympic Sports Performance{% endblock %}</title>
+  <link href="{{ url_for('static', filename='assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+  <link href="{{ url_for('static', filename='assets/css/main.css') }}" rel="stylesheet">
+  <style>
+    .site-nav { background: #37517e; }
+    .site-nav .nav-link, .site-nav .navbar-brand { color: #fff; }
+    .site-nav .nav-link:hover { color: #47b2e4; }
+    .page-wrap { padding: 32px 0 48px; }
+    .viz-box { background: #fff; padding: 12px; border-radius: 6px; overflow-x: auto; }
+    .site-footer { text-align: center; padding: 18px; font-size: .85rem; color: #666; }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg site-nav">
+    <div class="container">
+      <a class="navbar-brand" href="{{ url_for('home') }}">Olympic Analytics</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navMenu">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('home') }}">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('dashboard1') }}">Dashboard 1</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('dashboard2') }}">Dashboard 2</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('story') }}">Story</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container page-wrap">
+    {% block content %}{% endblock %}
+  </main>
+
+  <div class="site-footer">All figures come from a synthetic sample dataset, not real Olympic results.</div>
+
+  <script src="{{ url_for('static', filename='assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+</body>
+</html>
