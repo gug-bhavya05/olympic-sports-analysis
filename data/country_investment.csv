@@ -1,0 +1,919 @@
+country,region,year,sports_investment_usd_million
+Slovakia,Europe/Asia,1992,6.0
+Slovakia,Europe/Asia,1994,5.4
+Slovakia,Europe/Asia,1996,7.2
+Slovakia,Europe/Asia,1998,7.6
+Slovakia,Europe/Asia,2000,6.2
+Slovakia,Europe/Asia,2002,7.3
+Slovakia,Europe/Asia,2004,6.5
+Slovakia,Europe/Asia,2006,8.0
+Slovakia,Europe/Asia,2008,7.3
+Slovakia,Europe/Asia,2010,8.4
+Slovakia,Europe/Asia,2012,8.8
+Slovakia,Europe/Asia,2014,9.2
+Slovakia,Europe/Asia,2016,7.7
+Slovakia,Europe/Asia,2018,10.0
+Slovakia,Europe/Asia,2020,8.4
+Slovakia,Europe/Asia,2022,8.1
+Slovakia,Europe/Asia,2024,9.7
+Slovakia,Europe/Asia,2026,9.4
+Georgia,Europe/Asia,1992,22.2
+Georgia,Europe/Asia,1994,22.8
+Georgia,Europe/Asia,1996,20.4
+Georgia,Europe/Asia,1998,25.3
+Georgia,Europe/Asia,2000,21.5
+Georgia,Europe/Asia,2002,23.8
+Georgia,Europe/Asia,2004,22.6
+Georgia,Europe/Asia,2006,28.4
+Georgia,Europe/Asia,2008,23.2
+Georgia,Europe/Asia,2010,22.9
+Georgia,Europe/Asia,2012,26.7
+Georgia,Europe/Asia,2014,32.1
+Georgia,Europe/Asia,2016,32.0
+Georgia,Europe/Asia,2018,31.5
+Georgia,Europe/Asia,2020,33.6
+Georgia,Europe/Asia,2022,34.4
+Georgia,Europe/Asia,2024,31.6
+Georgia,Europe/Asia,2026,30.4
+Germany,Europe/Asia,1992,82.6
+Germany,Europe/Asia,1994,82.9
+Germany,Europe/Asia,1996,78.6
+Germany,Europe/Asia,1998,74.1
+Germany,Europe/Asia,2000,93.5
+Germany,Europe/Asia,2002,83.3
+Germany,Europe/Asia,2004,104.5
+Germany,Europe/Asia,2006,87.7
+Germany,Europe/Asia,2008,86.7
+Germany,Europe/Asia,2010,110.4
+Germany,Europe/Asia,2012,92.4
+Germany,Europe/Asia,2014,95.6
+Germany,Europe/Asia,2016,111.7
+Germany,Europe/Asia,2018,123.6
+Germany,Europe/Asia,2020,103.4
+Germany,Europe/Asia,2022,109.8
+Germany,Europe/Asia,2024,129.0
+Germany,Europe/Asia,2026,139.0
+France,Europe/Asia,1992,80.6
+France,Europe/Asia,1994,64.8
+France,Europe/Asia,1996,64.1
+France,Europe/Asia,1998,71.2
+France,Europe/Asia,2000,71.1
+France,Europe/Asia,2002,86.8
+France,Europe/Asia,2004,75.2
+France,Europe/Asia,2006,87.4
+France,Europe/Asia,2008,95.0
+France,Europe/Asia,2010,94.4
+France,Europe/Asia,2012,86.1
+France,Europe/Asia,2014,105.9
+France,Europe/Asia,2016,106.0
+France,Europe/Asia,2018,109.3
+France,Europe/Asia,2020,92.9
+France,Europe/Asia,2022,94.8
+France,Europe/Asia,2024,141.9
+France,Europe/Asia,2026,108.4
+Italy,Europe/Asia,1992,66.0
+Italy,Europe/Asia,1994,72.4
+Italy,Europe/Asia,1996,78.8
+Italy,Europe/Asia,1998,88.2
+Italy,Europe/Asia,2000,74.9
+Italy,Europe/Asia,2002,93.0
+Italy,Europe/Asia,2004,72.8
+Italy,Europe/Asia,2006,102.2
+Italy,Europe/Asia,2008,93.4
+Italy,Europe/Asia,2010,81.4
+Italy,Europe/Asia,2012,84.5
+Italy,Europe/Asia,2014,94.8
+Italy,Europe/Asia,2016,113.6
+Italy,Europe/Asia,2018,105.1
+Italy,Europe/Asia,2020,118.2
+Italy,Europe/Asia,2022,116.8
+Italy,Europe/Asia,2024,108.4
+Italy,Europe/Asia,2026,139.7
+Great Britain,Europe/Asia,1992,51.8
+Great Britain,Europe/Asia,1994,55.4
+Great Britain,Europe/Asia,1996,71.3
+Great Britain,Europe/Asia,1998,72.9
+Great Britain,Europe/Asia,2000,63.6
+Great Britain,Europe/Asia,2002,71.9
+Great Britain,Europe/Asia,2004,75.7
+Great Britain,Europe/Asia,2006,83.8
+Great Britain,Europe/Asia,2008,80.0
+Great Britain,Europe/Asia,2010,77.6
+Great Britain,Europe/Asia,2012,90.5
+Great Britain,Europe/Asia,2014,82.1
+Great Britain,Europe/Asia,2016,90.0
+Great Britain,Europe/Asia,2018,97.9
+Great Britain,Europe/Asia,2020,89.1
+Great Britain,Europe/Asia,2022,85.4
+Great Britain,Europe/Asia,2024,87.1
+Great Britain,Europe/Asia,2026,103.8
+Netherlands,Europe/Asia,1992,62.2
+Netherlands,Europe/Asia,1994,51.9
+Netherlands,Europe/Asia,1996,52.9
+Netherlands,Europe/Asia,1998,64.6
+Netherlands,Europe/Asia,2000,57.9
+Netherlands,Europe/Asia,2002,73.3
+Netherlands,Europe/Asia,2004,64.9
+Netherlands,Europe/Asia,2006,63.2
+Netherlands,Europe/Asia,2008,81.9
+Netherlands,Europe/Asia,2010,67.2
+Netherlands,Europe/Asia,2012,71.8
+Netherlands,Europe/Asia,2014,70.5
+Netherlands,Europe/Asia,2016,71.4
+Netherlands,Europe/Asia,2018,70.8
+Netherlands,Europe/Asia,2020,73.4
+Netherlands,Europe/Asia,2022,78.2
+Netherlands,Europe/Asia,2024,76.8
+Netherlands,Europe/Asia,2026,93.1
+Spain,Europe/Asia,1992,31.7
+Spain,Europe/Asia,1994,26.2
+Spain,Europe/Asia,1996,26.5
+Spain,Europe/Asia,1998,28.9
+Spain,Europe/Asia,2000,33.2
+Spain,Europe/Asia,2002,34.0
+Spain,Europe/Asia,2004,27.3
+Spain,Europe/Asia,2006,29.5
+Spain,Europe/Asia,2008,30.8
+Spain,Europe/Asia,2010,31.8
+Spain,Europe/Asia,2012,36.1
+Spain,Europe/Asia,2014,35.3
+Spain,Europe/Asia,2016,32.1
+Spain,Europe/Asia,2018,36.6
+Spain,Europe/Asia,2020,39.3
+Spain,Europe/Asia,2022,35.1
+Spain,Europe/Asia,2024,44.9
+Spain,Europe/Asia,2026,36.1
+Poland,Europe/Asia,1992,16.0
+Poland,Europe/Asia,1994,12.9
+Poland,Europe/Asia,1996,16.7
+Poland,Europe/Asia,1998,17.5
+Poland,Europe/Asia,2000,18.5
+Poland,Europe/Asia,2002,18.1
+Poland,Europe/Asia,2004,18.6
+Poland,Europe/Asia,2006,18.4
+Poland,Europe/Asia,2008,19.6
+Poland,Europe/Asia,2010,16.6
+Poland,Europe/Asia,2012,19.3
+Poland,Europe/Asia,2014,19.7
+Poland,Europe/Asia,2016,22.3
+Poland,Europe/Asia,2018,20.4
+Poland,Europe/Asia,2020,20.4
+Poland,Europe/Asia,2022,22.5
+Poland,Europe/Asia,2024,20.5
+Poland,Europe/Asia,2026,20.1
+Hungary,Europe/Asia,1992,43.0
+Hungary,Europe/Asia,1994,43.7
+Hungary,Europe/Asia,1996,42.6
+Hungary,Europe/Asia,1998,45.9
+Hungary,Europe/Asia,2000,47.4
+Hungary,Europe/Asia,2002,48.2
+Hungary,Europe/Asia,2004,50.5
+Hungary,Europe/Asia,2006,56.9
+Hungary,Europe/Asia,2008,52.0
+Hungary,Europe/Asia,2010,64.6
+Hungary,Europe/Asia,2012,65.7
+Hungary,Europe/Asia,2014,59.6
+Hungary,Europe/Asia,2016,58.3
+Hungary,Europe/Asia,2018,63.7
+Hungary,Europe/Asia,2020,71.2
+Hungary,Europe/Asia,2022,69.0
+Hungary,Europe/Asia,2024,73.7
+Hungary,Europe/Asia,2026,69.7
+Sweden,Europe/Asia,1992,33.8
+Sweden,Europe/Asia,1994,31.5
+Sweden,Europe/Asia,1996,37.2
+Sweden,Europe/Asia,1998,32.7
+Sweden,Europe/Asia,2000,39.2
+Sweden,Europe/Asia,2002,42.3
+Sweden,Europe/Asia,2004,34.9
+Sweden,Europe/Asia,2006,41.8
+Sweden,Europe/Asia,2008,36.5
+Sweden,Europe/Asia,2010,45.6
+Sweden,Europe/Asia,2012,38.4
+Sweden,Europe/Asia,2014,50.8
+Sweden,Europe/Asia,2016,41.1
+Sweden,Europe/Asia,2018,53.7
+Sweden,Europe/Asia,2020,52.7
+Sweden,Europe/Asia,2022,50.9
+Sweden,Europe/Asia,2024,54.9
+Sweden,Europe/Asia,2026,56.4
+Norway,Europe/Asia,1992,73.4
+Norway,Europe/Asia,1994,71.3
+Norway,Europe/Asia,1996,71.1
+Norway,Europe/Asia,1998,62.8
+Norway,Europe/Asia,2000,76.3
+Norway,Europe/Asia,2002,68.5
+Norway,Europe/Asia,2004,79.8
+Norway,Europe/Asia,2006,82.3
+Norway,Europe/Asia,2008,82.0
+Norway,Europe/Asia,2010,85.7
+Norway,Europe/Asia,2012,94.3
+Norway,Europe/Asia,2014,97.6
+Norway,Europe/Asia,2016,91.7
+Norway,Europe/Asia,2018,96.9
+Norway,Europe/Asia,2020,108.9
+Norway,Europe/Asia,2022,87.4
+Norway,Europe/Asia,2024,89.3
+Norway,Europe/Asia,2026,90.4
+Switzerland,Europe/Asia,1992,57.7
+Switzerland,Europe/Asia,1994,55.6
+Switzerland,Europe/Asia,1996,63.8
+Switzerland,Europe/Asia,1998,64.0
+Switzerland,Europe/Asia,2000,59.7
+Switzerland,Europe/Asia,2002,72.5
+Switzerland,Europe/Asia,2004,71.9
+Switzerland,Europe/Asia,2006,63.9
+Switzerland,Europe/Asia,2008,67.7
+Switzerland,Europe/Asia,2010,68.4
+Switzerland,Europe/Asia,2012,66.8
+Switzerland,Europe/Asia,2014,68.3
+Switzerland,Europe/Asia,2016,88.5
+Switzerland,Europe/Asia,2018,78.7
+Switzerland,Europe/Asia,2020,79.2
+Switzerland,Europe/Asia,2022,89.8
+Switzerland,Europe/Asia,2024,87.3
+Switzerland,Europe/Asia,2026,99.4
+Czechia,Europe/Asia,1992,59.4
+Czechia,Europe/Asia,1994,56.4
+Czechia,Europe/Asia,1996,56.5
+Czechia,Europe/Asia,1998,69.4
+Czechia,Europe/Asia,2000,66.6
+Czechia,Europe/Asia,2002,73.1
+Czechia,Europe/Asia,2004,58.7
+Czechia,Europe/Asia,2006,75.4
+Czechia,Europe/Asia,2008,73.0
+Czechia,Europe/Asia,2010,63.9
+Czechia,Europe/Asia,2012,76.0
+Czechia,Europe/Asia,2014,80.2
+Czechia,Europe/Asia,2016,66.4
+Czechia,Europe/Asia,2018,78.7
+Czechia,Europe/Asia,2020,89.6
+Czechia,Europe/Asia,2022,78.5
+Czechia,Europe/Asia,2024,84.4
+Czechia,Europe/Asia,2026,85.9
+Ukraine,Europe/Asia,1992,35.8
+Ukraine,Europe/Asia,1994,44.4
+Ukraine,Europe/Asia,1996,44.2
+Ukraine,Europe/Asia,1998,37.2
+Ukraine,Europe/Asia,2000,49.9
+Ukraine,Europe/Asia,2002,49.9
+Ukraine,Europe/Asia,2004,43.1
+Ukraine,Europe/Asia,2006,52.2
+Ukraine,Europe/Asia,2008,43.0
+Ukraine,Europe/Asia,2010,57.6
+Ukraine,Europe/Asia,2012,54.0
+Ukraine,Europe/Asia,2014,55.2
+Ukraine,Europe/Asia,2016,47.5
+Ukraine,Europe/Asia,2018,62.0
+Ukraine,Europe/Asia,2020,48.8
+Ukraine,Europe/Asia,2022,53.6
+Ukraine,Europe/Asia,2024,53.1
+Ukraine,Europe/Asia,2026,65.8
+Turkey,Europe/Asia,1992,28.6
+Turkey,Europe/Asia,1994,36.5
+Turkey,Europe/Asia,1996,35.2
+Turkey,Europe/Asia,1998,29.9
+Turkey,Europe/Asia,2000,30.5
+Turkey,Europe/Asia,2002,31.9
+Turkey,Europe/Asia,2004,39.2
+Turkey,Europe/Asia,2006,42.6
+Turkey,Europe/Asia,2008,37.0
+Turkey,Europe/Asia,2010,45.6
+Turkey,Europe/Asia,2012,36.8
+Turkey,Europe/Asia,2014,47.4
+Turkey,Europe/Asia,2016,50.3
+Turkey,Europe/Asia,2018,49.4
+Turkey,Europe/Asia,2020,49.6
+Turkey,Europe/Asia,2022,52.7
+Turkey,Europe/Asia,2024,42.2
+Turkey,Europe/Asia,2026,45.6
+China,Europe/Asia,1992,58.5
+China,Europe/Asia,1994,68.4
+China,Europe/Asia,1996,75.8
+China,Europe/Asia,1998,75.7
+China,Europe/Asia,2000,83.1
+China,Europe/Asia,2002,69.5
+China,Europe/Asia,2004,85.4
+China,Europe/Asia,2006,74.6
+China,Europe/Asia,2008,90.4
+China,Europe/Asia,2010,92.2
+China,Europe/Asia,2012,101.9
+China,Europe/Asia,2014,94.4
+China,Europe/Asia,2016,81.1
+China,Europe/Asia,2018,99.3
+China,Europe/Asia,2020,84.8
+China,Europe/Asia,2022,129.0
+China,Europe/Asia,2024,109.4
+China,Europe/Asia,2026,94.9
+Japan,Europe/Asia,1992,24.4
+Japan,Europe/Asia,1994,26.1
+Japan,Europe/Asia,1996,34.1
+Japan,Europe/Asia,1998,35.0
+Japan,Europe/Asia,2000,34.5
+Japan,Europe/Asia,2002,34.1
+Japan,Europe/Asia,2004,34.4
+Japan,Europe/Asia,2006,31.0
+Japan,Europe/Asia,2008,40.4
+Japan,Europe/Asia,2010,34.4
+Japan,Europe/Asia,2012,38.5
+Japan,Europe/Asia,2014,40.9
+Japan,Europe/Asia,2016,41.3
+Japan,Europe/Asia,2018,45.9
+Japan,Europe/Asia,2020,42.7
+Japan,Europe/Asia,2022,42.6
+Japan,Europe/Asia,2024,42.2
+Japan,Europe/Asia,2026,44.1
+South Korea,Europe/Asia,1992,38.7
+South Korea,Europe/Asia,1994,40.3
+South Korea,Europe/Asia,1996,43.7
+South Korea,Europe/Asia,1998,45.5
+South Korea,Europe/Asia,2000,48.8
+South Korea,Europe/Asia,2002,53.1
+South Korea,Europe/Asia,2004,55.1
+South Korea,Europe/Asia,2006,53.0
+South Korea,Europe/Asia,2008,54.4
+South Korea,Europe/Asia,2010,52.6
+South Korea,Europe/Asia,2012,60.6
+South Korea,Europe/Asia,2014,57.2
+South Korea,Europe/Asia,2016,53.5
+South Korea,Europe/Asia,2018,71.4
+South Korea,Europe/Asia,2020,64.7
+South Korea,Europe/Asia,2022,61.2
+South Korea,Europe/Asia,2024,69.7
+South Korea,Europe/Asia,2026,71.1
+Kazakhstan,Europe/Asia,1992,28.9
+Kazakhstan,Europe/Asia,1994,29.5
+Kazakhstan,Europe/Asia,1996,30.5
+Kazakhstan,Europe/Asia,1998,28.5
+Kazakhstan,Europe/Asia,2000,33.7
+Kazakhstan,Europe/Asia,2002,32.5
+Kazakhstan,Europe/Asia,2004,32.3
+Kazakhstan,Europe/Asia,2006,35.2
+Kazakhstan,Europe/Asia,2008,33.4
+Kazakhstan,Europe/Asia,2010,36.0
+Kazakhstan,Europe/Asia,2012,39.4
+Kazakhstan,Europe/Asia,2014,42.1
+Kazakhstan,Europe/Asia,2016,43.6
+Kazakhstan,Europe/Asia,2018,39.7
+Kazakhstan,Europe/Asia,2020,40.9
+Kazakhstan,Europe/Asia,2022,45.3
+Kazakhstan,Europe/Asia,2024,40.1
+Kazakhstan,Europe/Asia,2026,47.9
+India,Europe/Asia,1992,40.2
+India,Europe/Asia,1994,36.9
+India,Europe/Asia,1996,37.6
+India,Europe/Asia,1998,49.1
+India,Europe/Asia,2000,39.8
+India,Europe/Asia,2002,44.2
+India,Europe/Asia,2004,46.3
+India,Europe/Asia,2006,45.2
+India,Europe/Asia,2008,48.7
+India,Europe/Asia,2010,56.8
+India,Europe/Asia,2012,46.5
+India,Europe/Asia,2014,61.3
+India,Europe/Asia,2016,63.3
+India,Europe/Asia,2018,56.4
+India,Europe/Asia,2020,53.8
+India,Europe/Asia,2022,63.3
+India,Europe/Asia,2024,55.7
+India,Europe/Asia,2026,61.6
+Iran,Europe/Asia,1992,53.7
+Iran,Europe/Asia,1994,56.1
+Iran,Europe/Asia,1996,54.6
+Iran,Europe/Asia,1998,49.2
+Iran,Europe/Asia,2000,56.8
+Iran,Europe/Asia,2002,58.9
+Iran,Europe/Asia,2004,55.2
+Iran,Europe/Asia,2006,61.2
+Iran,Europe/Asia,2008,51.5
+Iran,Europe/Asia,2010,56.6
+Iran,Europe/Asia,2012,64.2
+Iran,Europe/Asia,2014,58.8
+Iran,Europe/Asia,2016,60.3
+Iran,Europe/Asia,2018,75.6
+Iran,Europe/Asia,2020,80.6
+Iran,Europe/Asia,2022,73.2
+Iran,Europe/Asia,2024,81.1
+Iran,Europe/Asia,2026,86.3
+Uzbekistan,Europe/Asia,1992,31.4
+Uzbekistan,Europe/Asia,1994,35.8
+Uzbekistan,Europe/Asia,1996,36.4
+Uzbekistan,Europe/Asia,1998,33.9
+Uzbekistan,Europe/Asia,2000,43.1
+Uzbekistan,Europe/Asia,2002,40.5
+Uzbekistan,Europe/Asia,2004,42.1
+Uzbekistan,Europe/Asia,2006,39.2
+Uzbekistan,Europe/Asia,2008,40.7
+Uzbekistan,Europe/Asia,2010,51.9
+Uzbekistan,Europe/Asia,2012,41.0
+Uzbekistan,Europe/Asia,2014,44.8
+Uzbekistan,Europe/Asia,2016,46.8
+Uzbekistan,Europe/Asia,2018,51.0
+Uzbekistan,Europe/Asia,2020,53.7
+Uzbekistan,Europe/Asia,2022,53.5
+Uzbekistan,Europe/Asia,2024,48.0
+Uzbekistan,Europe/Asia,2026,51.7
+Greece,Europe/Asia,1992,25.6
+Greece,Europe/Asia,1994,25.0
+Greece,Europe/Asia,1996,25.9
+Greece,Europe/Asia,1998,26.9
+Greece,Europe/Asia,2000,28.5
+Greece,Europe/Asia,2002,23.6
+Greece,Europe/Asia,2004,30.9
+Greece,Europe/Asia,2006,29.2
+Greece,Europe/Asia,2008,28.2
+Greece,Europe/Asia,2010,33.6
+Greece,Europe/Asia,2012,31.1
+Greece,Europe/Asia,2014,34.7
+Greece,Europe/Asia,2016,36.4
+Greece,Europe/Asia,2018,33.8
+Greece,Europe/Asia,2020,38.8
+Greece,Europe/Asia,2022,36.3
+Greece,Europe/Asia,2024,39.9
+Greece,Europe/Asia,2026,35.2
+Croatia,Europe/Asia,1992,33.8
+Croatia,Europe/Asia,1994,35.3
+Croatia,Europe/Asia,1996,31.9
+Croatia,Europe/Asia,1998,36.2
+Croatia,Europe/Asia,2000,43.4
+Croatia,Europe/Asia,2002,41.3
+Croatia,Europe/Asia,2004,37.0
+Croatia,Europe/Asia,2006,40.1
+Croatia,Europe/Asia,2008,39.3
+Croatia,Europe/Asia,2010,38.1
+Croatia,Europe/Asia,2012,51.5
+Croatia,Europe/Asia,2014,46.1
+Croatia,Europe/Asia,2016,45.3
+Croatia,Europe/Asia,2018,50.7
+Croatia,Europe/Asia,2020,42.9
+Croatia,Europe/Asia,2022,48.1
+Croatia,Europe/Asia,2024,56.0
+Croatia,Europe/Asia,2026,56.1
+United States,North America,1992,77.5
+United States,North America,1994,72.6
+United States,North America,1996,82.8
+United States,North America,1998,80.7
+United States,North America,2000,86.5
+United States,North America,2002,97.5
+United States,North America,2004,93.3
+United States,North America,2006,91.4
+United States,North America,2008,96.2
+United States,North America,2010,78.7
+United States,North America,2012,97.8
+United States,North America,2014,92.1
+United States,North America,2016,97.7
+United States,North America,2018,103.1
+United States,North America,2020,115.1
+United States,North America,2022,118.3
+United States,North America,2024,98.9
+United States,North America,2026,115.6
+Canada,North America,1992,72.2
+Canada,North America,1994,66.3
+Canada,North America,1996,63.8
+Canada,North America,1998,64.0
+Canada,North America,2000,83.0
+Canada,North America,2002,78.7
+Canada,North America,2004,93.1
+Canada,North America,2006,82.8
+Canada,North America,2008,98.3
+Canada,North America,2010,98.9
+Canada,North America,2012,98.7
+Canada,North America,2014,81.5
+Canada,North America,2016,97.0
+Canada,North America,2018,106.6
+Canada,North America,2020,112.9
+Canada,North America,2022,112.4
+Canada,North America,2024,90.2
+Canada,North America,2026,103.1
+Mexico,North America,1992,22.0
+Mexico,North America,1994,23.2
+Mexico,North America,1996,28.7
+Mexico,North America,1998,29.9
+Mexico,North America,2000,31.4
+Mexico,North America,2002,33.2
+Mexico,North America,2004,33.0
+Mexico,North America,2006,34.5
+Mexico,North America,2008,28.2
+Mexico,North America,2010,30.8
+Mexico,North America,2012,35.6
+Mexico,North America,2014,39.0
+Mexico,North America,2016,30.8
+Mexico,North America,2018,37.2
+Mexico,North America,2020,39.9
+Mexico,North America,2022,33.3
+Mexico,North America,2024,38.5
+Mexico,North America,2026,45.4
+Cuba,North America,1992,38.2
+Cuba,North America,1994,34.7
+Cuba,North America,1996,43.0
+Cuba,North America,1998,38.4
+Cuba,North America,2000,45.9
+Cuba,North America,2002,40.2
+Cuba,North America,2004,45.2
+Cuba,North America,2006,43.9
+Cuba,North America,2008,43.4
+Cuba,North America,2010,53.4
+Cuba,North America,2012,44.5
+Cuba,North America,2014,44.1
+Cuba,North America,2016,49.2
+Cuba,North America,2018,56.4
+Cuba,North America,2020,59.2
+Cuba,North America,2022,63.8
+Cuba,North America,2024,53.3
+Cuba,North America,2026,56.4
+Jamaica,North America,1992,45.9
+Jamaica,North America,1994,54.5
+Jamaica,North America,1996,63.3
+Jamaica,North America,1998,60.3
+Jamaica,North America,2000,60.3
+Jamaica,North America,2002,58.5
+Jamaica,North America,2004,70.0
+Jamaica,North America,2006,64.0
+Jamaica,North America,2008,58.7
+Jamaica,North America,2010,64.9
+Jamaica,North America,2012,60.5
+Jamaica,North America,2014,64.9
+Jamaica,North America,2016,62.5
+Jamaica,North America,2018,73.8
+Jamaica,North America,2020,79.8
+Jamaica,North America,2022,74.8
+Jamaica,North America,2024,78.4
+Jamaica,North America,2026,93.4
+Dominican Republic,North America,1992,42.8
+Dominican Republic,North America,1994,41.7
+Dominican Republic,North America,1996,39.8
+Dominican Republic,North America,1998,49.2
+Dominican Republic,North America,2000,41.8
+Dominican Republic,North America,2002,44.3
+Dominican Republic,North America,2004,54.1
+Dominican Republic,North America,2006,50.0
+Dominican Republic,North America,2008,54.7
+Dominican Republic,North America,2010,53.8
+Dominican Republic,North America,2012,56.2
+Dominican Republic,North America,2014,51.8
+Dominican Republic,North America,2016,52.1
+Dominican Republic,North America,2018,54.8
+Dominican Republic,North America,2020,53.2
+Dominican Republic,North America,2022,67.5
+Dominican Republic,North America,2024,58.1
+Dominican Republic,North America,2026,64.7
+Brazil,South America,1992,67.4
+Brazil,South America,1994,69.6
+Brazil,South America,1996,65.1
+Brazil,South America,1998,68.0
+Brazil,South America,2000,81.1
+Brazil,South America,2002,76.6
+Brazil,South America,2004,82.0
+Brazil,South America,2006,86.5
+Brazil,South America,2008,86.1
+Brazil,South America,2010,73.8
+Brazil,South America,2012,85.2
+Brazil,South America,2014,75.6
+Brazil,South America,2016,105.8
+Brazil,South America,2018,102.5
+Brazil,South America,2020,92.7
+Brazil,South America,2022,92.6
+Brazil,South America,2024,83.2
+Brazil,South America,2026,112.5
+Argentina,South America,1992,17.1
+Argentina,South America,1994,17.3
+Argentina,South America,1996,19.2
+Argentina,South America,1998,18.6
+Argentina,South America,2000,21.8
+Argentina,South America,2002,22.9
+Argentina,South America,2004,22.1
+Argentina,South America,2006,20.9
+Argentina,South America,2008,21.9
+Argentina,South America,2010,24.6
+Argentina,South America,2012,22.7
+Argentina,South America,2014,28.4
+Argentina,South America,2016,25.1
+Argentina,South America,2018,26.5
+Argentina,South America,2020,28.0
+Argentina,South America,2022,28.8
+Argentina,South America,2024,25.7
+Argentina,South America,2026,27.3
+Colombia,South America,1992,15.9
+Colombia,South America,1994,12.6
+Colombia,South America,1996,15.4
+Colombia,South America,1998,15.8
+Colombia,South America,2000,15.6
+Colombia,South America,2002,16.5
+Colombia,South America,2004,18.8
+Colombia,South America,2006,19.7
+Colombia,South America,2008,17.1
+Colombia,South America,2010,17.9
+Colombia,South America,2012,17.9
+Colombia,South America,2014,19.8
+Colombia,South America,2016,21.5
+Colombia,South America,2018,19.2
+Colombia,South America,2020,20.3
+Colombia,South America,2022,24.7
+Colombia,South America,2024,19.4
+Colombia,South America,2026,22.6
+Chile,South America,1992,19.8
+Chile,South America,1994,17.2
+Chile,South America,1996,17.2
+Chile,South America,1998,18.3
+Chile,South America,2000,23.9
+Chile,South America,2002,18.6
+Chile,South America,2004,20.4
+Chile,South America,2006,19.9
+Chile,South America,2008,21.0
+Chile,South America,2010,25.3
+Chile,South America,2012,23.1
+Chile,South America,2014,26.3
+Chile,South America,2016,27.1
+Chile,South America,2018,29.9
+Chile,South America,2020,23.6
+Chile,South America,2022,31.4
+Chile,South America,2024,30.0
+Chile,South America,2026,26.6
+Ecuador,South America,1992,38.6
+Ecuador,South America,1994,40.9
+Ecuador,South America,1996,35.4
+Ecuador,South America,1998,44.4
+Ecuador,South America,2000,40.1
+Ecuador,South America,2002,43.3
+Ecuador,South America,2004,49.5
+Ecuador,South America,2006,42.6
+Ecuador,South America,2008,50.0
+Ecuador,South America,2010,44.4
+Ecuador,South America,2012,52.5
+Ecuador,South America,2014,50.9
+Ecuador,South America,2016,46.4
+Ecuador,South America,2018,50.6
+Ecuador,South America,2020,50.3
+Ecuador,South America,2022,47.6
+Ecuador,South America,2024,47.8
+Ecuador,South America,2026,54.3
+Peru,South America,1992,21.6
+Peru,South America,1994,23.5
+Peru,South America,1996,28.8
+Peru,South America,1998,29.6
+Peru,South America,2000,30.8
+Peru,South America,2002,28.0
+Peru,South America,2004,34.0
+Peru,South America,2006,32.2
+Peru,South America,2008,28.6
+Peru,South America,2010,29.6
+Peru,South America,2012,36.0
+Peru,South America,2014,31.5
+Peru,South America,2016,35.8
+Peru,South America,2018,42.1
+Peru,South America,2020,31.9
+Peru,South America,2022,32.8
+Peru,South America,2024,45.1
+Peru,South America,2026,41.2
+Venezuela,South America,1992,19.4
+Venezuela,South America,1994,25.3
+Venezuela,South America,1996,26.0
+Venezuela,South America,1998,24.4
+Venezuela,South America,2000,25.8
+Venezuela,South America,2002,23.9
+Venezuela,South America,2004,22.8
+Venezuela,South America,2006,27.9
+Venezuela,South America,2008,26.2
+Venezuela,South America,2010,30.1
+Venezuela,South America,2012,32.4
+Venezuela,South America,2014,25.9
+Venezuela,South America,2016,31.9
+Venezuela,South America,2018,29.2
+Venezuela,South America,2020,36.2
+Venezuela,South America,2022,30.8
+Venezuela,South America,2024,35.2
+Venezuela,South America,2026,35.4
+Uruguay,South America,1992,28.4
+Uruguay,South America,1994,32.0
+Uruguay,South America,1996,33.5
+Uruguay,South America,1998,33.1
+Uruguay,South America,2000,36.0
+Uruguay,South America,2002,39.5
+Uruguay,South America,2004,34.6
+Uruguay,South America,2006,36.7
+Uruguay,South America,2008,32.1
+Uruguay,South America,2010,42.0
+Uruguay,South America,2012,39.9
+Uruguay,South America,2014,39.5
+Uruguay,South America,2016,36.6
+Uruguay,South America,2018,47.7
+Uruguay,South America,2020,42.3
+Uruguay,South America,2022,47.2
+Uruguay,South America,2024,41.0
+Uruguay,South America,2026,53.3
+Ethiopia,Africa,1992,7.4
+Ethiopia,Africa,1994,7.7
+Ethiopia,Africa,1996,9.7
+Ethiopia,Africa,1998,10.2
+Ethiopia,Africa,2000,8.5
+Ethiopia,Africa,2002,9.5
+Ethiopia,Africa,2004,10.6
+Ethiopia,Africa,2006,11.4
+Ethiopia,Africa,2008,10.1
+Ethiopia,Africa,2010,10.8
+Ethiopia,Africa,2012,11.9
+Ethiopia,Africa,2014,12.1
+Ethiopia,Africa,2016,12.6
+Ethiopia,Africa,2018,12.2
+Ethiopia,Africa,2020,10.8
+Ethiopia,Africa,2022,14.0
+Ethiopia,Africa,2024,14.2
+Ethiopia,Africa,2026,14.2
+Kenya,Africa,1992,38.7
+Kenya,Africa,1994,41.5
+Kenya,Africa,1996,50.5
+Kenya,Africa,1998,41.7
+Kenya,Africa,2000,57.4
+Kenya,Africa,2002,49.8
+Kenya,Africa,2004,56.7
+Kenya,Africa,2006,61.2
+Kenya,Africa,2008,54.5
+Kenya,Africa,2010,54.7
+Kenya,Africa,2012,61.3
+Kenya,Africa,2014,62.4
+Kenya,Africa,2016,60.8
+Kenya,Africa,2018,66.0
+Kenya,Africa,2020,74.1
+Kenya,Africa,2022,66.5
+Kenya,Africa,2024,62.4
+Kenya,Africa,2026,67.6
+South Africa,Africa,1992,43.0
+South Africa,Africa,1994,40.9
+South Africa,Africa,1996,42.7
+South Africa,Africa,1998,51.8
+South Africa,Africa,2000,48.2
+South Africa,Africa,2002,59.3
+South Africa,Africa,2004,49.6
+South Africa,Africa,2006,48.6
+South Africa,Africa,2008,61.2
+South Africa,Africa,2010,65.1
+South Africa,Africa,2012,56.0
+South Africa,Africa,2014,56.0
+South Africa,Africa,2016,57.1
+South Africa,Africa,2018,65.0
+South Africa,Africa,2020,65.5
+South Africa,Africa,2022,62.8
+South Africa,Africa,2024,59.8
+South Africa,Africa,2026,70.4
+Egypt,Africa,1992,42.4
+Egypt,Africa,1994,40.4
+Egypt,Africa,1996,39.9
+Egypt,Africa,1998,36.4
+Egypt,Africa,2000,39.4
+Egypt,Africa,2002,41.1
+Egypt,Africa,2004,48.7
+Egypt,Africa,2006,51.7
+Egypt,Africa,2008,53.5
+Egypt,Africa,2010,56.2
+Egypt,Africa,2012,57.6
+Egypt,Africa,2014,58.7
+Egypt,Africa,2016,46.2
+Egypt,Africa,2018,48.4
+Egypt,Africa,2020,52.3
+Egypt,Africa,2022,57.8
+Egypt,Africa,2024,51.1
+Egypt,Africa,2026,65.7
+Nigeria,Africa,1992,25.1
+Nigeria,Africa,1994,25.4
+Nigeria,Africa,1996,23.4
+Nigeria,Africa,1998,24.8
+Nigeria,Africa,2000,24.9
+Nigeria,Africa,2002,31.5
+Nigeria,Africa,2004,30.1
+Nigeria,Africa,2006,32.4
+Nigeria,Africa,2008,29.2
+Nigeria,Africa,2010,30.7
+Nigeria,Africa,2012,31.8
+Nigeria,Africa,2014,36.3
+Nigeria,Africa,2016,37.3
+Nigeria,Africa,2018,32.2
+Nigeria,Africa,2020,41.0
+Nigeria,Africa,2022,32.8
+Nigeria,Africa,2024,42.4
+Nigeria,Africa,2026,34.1
+Morocco,Africa,1992,51.0
+Morocco,Africa,1994,62.7
+Morocco,Africa,1996,53.1
+Morocco,Africa,1998,59.1
+Morocco,Africa,2000,61.6
+Morocco,Africa,2002,59.6
+Morocco,Africa,2004,70.6
+Morocco,Africa,2006,75.5
+Morocco,Africa,2008,78.2
+Morocco,Africa,2010,68.7
+Morocco,Africa,2012,74.8
+Morocco,Africa,2014,70.3
+Morocco,Africa,2016,72.0
+Morocco,Africa,2018,71.7
+Morocco,Africa,2020,92.6
+Morocco,Africa,2022,93.4
+Morocco,Africa,2024,92.8
+Morocco,Africa,2026,88.0
+Uganda,Africa,1992,38.8
+Uganda,Africa,1994,40.6
+Uganda,Africa,1996,42.1
+Uganda,Africa,1998,42.1
+Uganda,Africa,2000,39.5
+Uganda,Africa,2002,40.6
+Uganda,Africa,2004,53.5
+Uganda,Africa,2006,48.2
+Uganda,Africa,2008,56.6
+Uganda,Africa,2010,46.0
+Uganda,Africa,2012,53.4
+Uganda,Africa,2014,49.2
+Uganda,Africa,2016,51.2
+Uganda,Africa,2018,48.6
+Uganda,Africa,2020,51.3
+Uganda,Africa,2022,66.8
+Uganda,Africa,2024,57.4
+Uganda,Africa,2026,64.1
+Tunisia,Africa,1992,17.1
+Tunisia,Africa,1994,17.3
+Tunisia,Africa,1996,18.6
+Tunisia,Africa,1998,17.3
+Tunisia,Africa,2000,22.5
+Tunisia,Africa,2002,22.2
+Tunisia,Africa,2004,22.4
+Tunisia,Africa,2006,21.3
+Tunisia,Africa,2008,19.8
+Tunisia,Africa,2010,25.5
+Tunisia,Africa,2012,22.2
+Tunisia,Africa,2014,20.7
+Tunisia,Africa,2016,23.3
+Tunisia,Africa,2018,27.3
+Tunisia,Africa,2020,26.6
+Tunisia,Africa,2022,28.3
+Tunisia,Africa,2024,29.3
+Tunisia,Africa,2026,25.1
+Algeria,Africa,1992,19.0
+Algeria,Africa,1994,17.1
+Algeria,Africa,1996,18.8
+Algeria,Africa,1998,15.9
+Algeria,Africa,2000,22.1
+Algeria,Africa,2002,18.5
+Algeria,Africa,2004,17.7
+Algeria,Africa,2006,20.7
+Algeria,Africa,2008,19.2
+Algeria,Africa,2010,19.9
+Algeria,Africa,2012,23.7
+Algeria,Africa,2014,22.6
+Algeria,Africa,2016,27.0
+Algeria,Africa,2018,23.2
+Algeria,Africa,2020,26.8
+Algeria,Africa,2022,25.4
+Algeria,Africa,2024,27.6
+Algeria,Africa,2026,27.7
+Australia,Oceania,1992,86.7
+Australia,Oceania,1994,102.7
+Australia,Oceania,1996,89.1
+Australia,Oceania,1998,87.3
+Australia,Oceania,2000,120.7
+Australia,Oceania,2002,113.4
+Australia,Oceania,2004,91.2
+Australia,Oceania,2006,107.2
+Australia,Oceania,2008,125.1
+Australia,Oceania,2010,123.6
+Australia,Oceania,2012,135.4
+Australia,Oceania,2014,122.2
+Australia,Oceania,2016,130.1
+Australia,Oceania,2018,119.7
+Australia,Oceania,2020,147.8
+Australia,Oceania,2022,128.0
+Australia,Oceania,2024,146.1
+Australia,Oceania,2026,135.4
+New Zealand,Oceania,1992,40.5
+New Zealand,Oceania,1994,43.9
+New Zealand,Oceania,1996,42.7
+New Zealand,Oceania,1998,49.3
+New Zealand,Oceania,2000,44.3
+New Zealand,Oceania,2002,48.8
+New Zealand,Oceania,2004,45.9
+New Zealand,Oceania,2006,48.2
+New Zealand,Oceania,2008,50.0
+New Zealand,Oceania,2010,46.4
+New Zealand,Oceania,2012,47.1
+New Zealand,Oceania,2014,57.9
+New Zealand,Oceania,2016,59.1
+New Zealand,Oceania,2018,60.7
+New Zealand,Oceania,2020,50.7
+New Zealand,Oceania,2022,57.5
+New Zealand,Oceania,2024,56.4
+New Zealand,Oceania,2026,68.7
+Fiji,Oceania,1992,39.1
+Fiji,Oceania,1994,33.8
+Fiji,Oceania,1996,39.7
+Fiji,Oceania,1998,34.7
+Fiji,Oceania,2000,37.6
+Fiji,Oceania,2002,37.0
+Fiji,Oceania,2004,40.0
+Fiji,Oceania,2006,46.3
+Fiji,Oceania,2008,50.8
+Fiji,Oceania,2010,42.3
+Fiji,Oceania,2012,48.3
+Fiji,Oceania,2014,51.9
+Fiji,Oceania,2016,57.0
+Fiji,Oceania,2018,53.1
+Fiji,Oceania,2020,48.8
+Fiji,Oceania,2022,55.9
+Fiji,Oceania,2024,52.1
+Fiji,Oceania,2026,64.4
